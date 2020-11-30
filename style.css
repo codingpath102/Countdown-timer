@@ -6,7 +6,7 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
-    background: url(/img/pexels-felix-mittermeier-956981.jpg);
+    background: url(./pexels-felix-mittermeier-956981.jpg);
     background-position: center;
     background-size: cover;
     min-height: 100vh;
